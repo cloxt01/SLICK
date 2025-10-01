@@ -33,7 +33,7 @@ Hal ini diharapkan membantu masyarakat, akademisi, maupun pengambil kebijakan da
 ---
 
 ## Preview
-![SLICK UI](./preview.png)
+![SLICK UI](./src/preview.png)
 
 ---
 
