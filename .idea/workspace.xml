@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7c86f13a-733c-49e1-804d-4919e800f4bc" name="Changes" comment="" />
+    <list default="true" id="7c86f13a-733c-49e1-804d-4919e800f4bc" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/ayo_siaga.html" beforeDir="false" afterPath="$PROJECT_DIR$/main/bleach_alert.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/ayo_tanam.html" beforeDir="false" afterPath="$PROJECT_DIR$/main/ayo_tanam.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/introduction.html" beforeDir="false" afterPath="$PROJECT_DIR$/main/introduction.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/input.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/input.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/output.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/output.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,7 +51,7 @@
     "JavaScript Debug.red_zone.html.executor": "Run",
     "JavaScript Debug.tester.html.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/MyBook Hype/project/o",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
@@ -83,7 +91,7 @@
       <workItem from="1759234554960" duration="1204000" />
       <workItem from="1759235797723" duration="394000" />
       <workItem from="1759236217871" duration="4169000" />
-      <workItem from="1759243600106" duration="39488000" />
+      <workItem from="1759243600106" duration="46650000" />
     </task>
     <servers />
   </component>
