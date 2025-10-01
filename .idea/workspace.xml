@@ -21,6 +21,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:\php\php.exe" />
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
@@ -40,6 +43,7 @@
     "JavaScript Debug.red_zone.html.executor": "Run",
     "JavaScript Debug.tester.html.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Users/MyBook Hype/project/o",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
@@ -79,7 +83,7 @@
       <workItem from="1759234554960" duration="1204000" />
       <workItem from="1759235797723" duration="394000" />
       <workItem from="1759236217871" duration="4169000" />
-      <workItem from="1759243600106" duration="39145000" />
+      <workItem from="1759243600106" duration="39488000" />
     </task>
     <servers />
   </component>
